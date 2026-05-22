@@ -1,0 +1,9 @@
+{
+  "name": "Music Store",
+  "short_name": "Music",
+  "description": "Магазин инструментов, покупай у нас",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fae1bb",
+  "theme_color": "#6100C2"
+}
